@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm João</h1>
-<h3 align="center">I wanna be a Back-End Developer</h3>
+<!-- <h3 align="center">I wanna be a Back-End Developer</h3> -->
 
 - 💖 I love technology and especially backend.
 
