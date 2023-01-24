@@ -3,7 +3,7 @@
 
 - 💖 I love technology and especially backend.
 
-- 🌱 I’m currently learning **Java, Spring and Angular.**
+- 🌱 I’m currently learning **Terraform, Docker, Kubernetes, ECS and EKS**
 
 - 👨‍💻 All of my projects are available at [here.](https://github.com/joaok2k2?tab=repositories&q=&type=source&language=&sort=)
 
